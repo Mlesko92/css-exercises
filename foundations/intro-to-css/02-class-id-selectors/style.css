@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ba2e2c;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.fashion {
+   font-size: 24px;
+}
+
+#alpha {
+    color: #3386fd;
+    font-size: 36px;
+}
+
+#beta {
+    background-color: #82ff44;
+    font-size: 24px;
+    font-weight: bold;
+}
